@@ -1,0 +1,6 @@
+{
+  "name": "VacciTrack",
+  "description": "Sistema Digital de Acompanhamento e Gestão da Vacinação em Moçambique com caderneta digital, dashboards para profissionais e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
